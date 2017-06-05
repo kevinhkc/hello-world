@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Kevin here testing out and begin to learn coding
+Godspeed!
